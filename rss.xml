@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Defendering]]></title>
+        <description><![CDATA[Defendering]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jul 2016 19:33:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello world]]></title>
+            <description><![CDATA[<article><h1>Hello world</h1><p>Wobble testy west lotus ipsu</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92cc7cfc-e24b-4947-bf63-a74bda36bf6d.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/92cc7cfc-e24b-4947-bf63-a74bda36bf6d.jpg</link>
+            <guid isPermaLink="false">57046b00-e12f-445b-878e-7cf383ceae92</guid>
+            <pubDate>Tue, 05 Jul 2016 19:32:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
