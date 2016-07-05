@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2080831311177462
 color:
   saturation: 0.3742052705492824
   brandStrength: 0.5451128
@@ -22,5 +21,6 @@ color:
     - '#4C4531'
     - '#1CA59E'
   rhythmicContrast: 0.9023541398346424
-layout_spectrum: 0.2192561975680292
+typography_spectrum: 0.2080831311177462
+layout_spectrum: 0.9403866
 name: Defendering
